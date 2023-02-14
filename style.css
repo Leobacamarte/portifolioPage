@@ -12,18 +12,20 @@ img {
 h1 {
 
     text-align: center;
+    color: aliceblue;
 }
 
 h2{
 
     text-align: center;
     font-size: medium;
+    color: aliceblue;
 }
 
 header {
 
     background-attachment: fixed;
-    background-color: #72b3f0;
+    background-image: url(./bgblue.jpg);
     border-radius: 10px;
 }
 
